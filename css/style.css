@@ -1,0 +1,26 @@
+.container {
+  padding-top: 10px;
+}
+.rounded {
+  width: 100px;
+}
+.img-thumbnail {
+  width: 80px !important;
+}
+.message {
+  display: none;
+}
+#overlay {
+  background: #ffffff;
+  color: #666666;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  z-index: 5000;
+  top: 0;
+  left: 0;
+  float: left;
+  text-align: center;
+  padding-top: 25%;
+  opacity: 0.8;
+}
