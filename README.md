@@ -4,6 +4,9 @@ PHP MySQL CRUD Application using jQuery Ajax and Bootstrap
 
 - git clone the repository
 
+  Project setup
+- Rename your project directory to "phpcrudajax"
+
   Create Database:
 
 - create database name "playersdb"
